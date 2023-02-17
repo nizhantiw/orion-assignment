@@ -6,6 +6,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Deployed Link`
 https://orion-assignment.vercel.app/
 
+### `Libraries Used`
+"@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.9",
+    "cra-template": "1.2.0",
+    "d3": "^7.8.2",
+    "leaflet": "^1.9.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hexgrid": "^2.0.1",
+    "react-icons": "^4.7.1",
+    "react-leaflet": "^4.2.0",
+    "react-scripts"
+
 In the project directory, you can run:
 
 ### `npm start`
